@@ -84,6 +84,32 @@ Example Country 3: United Kingdom
 
 Due to the volatility and greater devaluation against the US Dollar travelers should hold off on converting currency today and exchange closer to their travel date. The risk is due to the volatility spikes in daily returns this could impact the expected receipt of income. All three of the examples including the most stable have a (negative) beta to USD and thus devaluing over time the most pronounced is Turkey however beta is relatively flat . There is little advantage to converting now and should be done closer to date of travel for all currencies selected.
 
+---
+
+## Install Dependencies 
+   Panel
+   plotl
+   hvplot
+   matplotlib
+   os
+   requests
+   pandas
+   pandas_datareader
+   seaborn
+   dotenv
+   numpy
+   json
+   forex_python.converter
+   datetime
+   countryinfo
+   yahoofinancials
+   pathlib 
+
+It is suggested to create a new enviornment with these libraries or to use google colab to avoid accidential corruption due to version incompatibility.
+
+ A direct link to the back end of this application can be found below.
+ https://github.com/RichieGarafola/Travel_Planner_Currency_Conversion/blob/main/Travel%20Planner%20Currency%20Conversion%20Risk.ipynb
+
 ## Appendix
 
 ### Volatility
