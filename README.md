@@ -104,7 +104,7 @@ Due to the volatility and greater devaluation against the US Dollar travelers sh
    countryinfo
    yahoofinancials
    pathlib 
-
+     
 It is suggested to create a new enviornment with these libraries or to use google colab to avoid accidential corruption due to version incompatibility.
 
  A direct link to the back end of this application can be found below.
